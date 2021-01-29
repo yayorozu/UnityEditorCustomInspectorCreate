@@ -1,1 +1,3 @@
 # UnityEditorCustomInspectorCreate
+
+スクリプトを指定すると、CustomInspector のテンプレートを吐き出してくれるツール
